@@ -1,0 +1,8 @@
+{
+  "name": "Teacher Smart Routine (NUHS)",
+  "description": "A comprehensive classroom management tool for school teachers featuring automated routines, homework tracking, smart gallery scanning, and Q&A support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
